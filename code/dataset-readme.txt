@@ -1,0 +1,1 @@
+The dataset exceeds the upload limit and is therefore not included in the submission package.The CMU-MOSI and CMU-MOSEI datasets could not be uploaded due to size constraints. Both datasets are publicly available at the following URL: https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK.
